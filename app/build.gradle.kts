@@ -47,4 +47,6 @@ dependencies {
     implementation ("com.sun.mail:jakarta.mail:2.0.1")
     implementation ("com.sun.activation:jakarta.activation:2.0.1")
 
+
+
 }
